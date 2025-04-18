@@ -5,7 +5,7 @@ Welcome to **VERSAL**, the ultimate email bombing tool that redefines power and 
 
 ## Why Versal?
 - **Unrivaled Power**: New exploits, insane speed, and cutting-edge tech.
-- **Free Forever**: No paywalls, no limits—pure functionality for everyone.
+- **Free Forever**: No paywalls, no limits pure functionality for everyone.
 - **Community-Driven**: Connect with us on [Discord](https://dc.gg/versal/) and [our forum](https://versal.codes/forum) to share ideas and stay updated.
 <p align="center"> <img src="https://i.imgur.com/o2EBJpa.png" alt="Versal GUI"> </p>
 
@@ -39,4 +39,4 @@ Welcome to **VERSAL**, the ultimate email bombing tool that redefines power and 
 3. Hang out with us on [Discord](https://dc.gg/versal/) to connect with the community.
 
 ## Ready to Dominate?
-Versal is more than a tool—it’s a movement. Don’t miss out on the action. Check out [versal.codes](https://versal.codes/) and let’s make waves together!
+VERSAL is more than a tool it’s a movement. Don’t miss out on the action. Check out [versal.codes](https://versal.codes/) and let’s make waves together!
