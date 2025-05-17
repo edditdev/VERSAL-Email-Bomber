@@ -3,7 +3,7 @@
 
 Welcome to **VERSAL**, the ultimate email bombing tool that redefines power and precision. This is a brand-new release packed with unmatched features and exploits you won’t find anywhere else. Best of all? It’s **completely free**. Join our thriving community at [versal.codes/forum](https://versal.codes/forum) and start growing with us today!
 <div align="center">
-  <img src="https://i.imgur.com/3G4UTp6.png" width="600" height="400">
+  <img src="https://i.imgur.com/3G4UTp6.png" width="300" height="200">
   <p></p>
 <a href="https://www.youtube.com/watch?v=T1lB1APHUJ8">Watch demo</a>
  <p> https://www.youtube.com/watch?v=T1lB1APHUJ8 </p>
@@ -46,3 +46,5 @@ Welcome to **VERSAL**, the ultimate email bombing tool that redefines power and 
 
 ## Ready to Dominate?
 VERSAL is more than a tool it’s a movement. Don’t miss out on the action. Check out [versal.codes](https://versal.codes/) and let’s make waves together!
+
+email bomber tutorial, what is email flooding, how email bombers work, email flooder explained, cybersecurity awareness, ethical hacking tools, penetration testing email, email spam attack demo, educational cybersecurity content, email attack prevention, email security tools, white hat hacking, cybersecurity demonstration, email vulnerability test, how to protect email systems, email denial of service, email spammer, email flooder
